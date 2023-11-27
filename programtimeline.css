@@ -341,6 +341,7 @@ body a {
 
 .timeline__slide-content {
   line-height: 1.7;
+  overflow: hidden;
 }
 
 .timeline__slide-content p:first-child {
